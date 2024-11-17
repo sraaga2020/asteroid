@@ -1,3 +1,4 @@
+pip install pandas requests datetime streamlit numpy plotly
 import pandas as pd
 import requests
 from datetime import datetime, timedelta
