@@ -427,3 +427,11 @@ st.markdown(
     <div class="twinkling-stars"></div>
     """, unsafe_allow_html=True
 )
+
+if st.button("Visit Asteroid App Website"):
+   js_code = """
+       <script>
+           window.open("https://asteroid.streamlit.app", "_blank");
+       </script>
+   """
+   st.markdown(js_code, unsafe_allow_html=True)
