@@ -1,5 +1,5 @@
-streamlit==1.21.0
-pandas==2.1.0
-plotly==5.10.0
-requests==2.31.0
-numpy==1.25.2
+streamlit
+pandas
+plotly
+requests
+numpy
